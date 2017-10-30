@@ -1,0 +1,11 @@
+About this site
+==============================================
+
+The primary focus of this site is to:
+
+1. To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+2. Bananana
+
+The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+
+This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
