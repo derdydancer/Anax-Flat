@@ -1,4 +1,4 @@
-Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
+Copyright &copy; 2017-2017 Philip Karlsson (karlsson.philip@protonamil.com)
 
 * [License](license)
 * [Cookies](cookies)

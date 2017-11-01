@@ -1,4 +1,4 @@
 Introduction
 ===============================
 
-Here are my reports for the different kmoms.
+Till vänster finns mina resovisningar för de olika kursmomenten.
