@@ -8,6 +8,8 @@ Avsikten med denna sida är:
 
 Källkoden till denns sida finns på [github](https://github.com/derdydancer/Anax-Flat).
 
+Källkoden till temat finns på [github](https://github.com/derdydancer/anax-flat-theme).
+
 Sidan är byggd av Philip Karlsson (karlsson.philip@protonmail.com).
 
 ![anax-bild](../img/anax-bild.jpg)
